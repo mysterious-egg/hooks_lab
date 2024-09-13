@@ -1,0 +1,15 @@
+.toggle{
+  margin: 30px;
+  margin-left: 40%;
+}
+.contain{
+  height: 200px;
+  width: 90%;
+  text-align: center;
+}
+button{
+  margin-top:8px;
+  line-height: 30px;
+  width: 70px;
+  
+}
